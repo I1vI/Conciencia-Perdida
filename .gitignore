@@ -1,0 +1,33 @@
+# Ignorar archivos generados por RPG Maker en exportación Web
+
+# Archivos temporales y de caché
+*.bak
+*.tmp
+*.log
+*.DS_Store
+*.thumbs
+
+# Archivos de configuración específicos del usuario
+config.rpgsave
+file.rpgsave
+*.ini
+
+# Archivos de Guardado (Save Files)
+save/
+saves/
+*.rpgsave
+
+# Carpetas de Exportación Web
+build/
+dist/
+www/
+
+# Archivos específicos de despliegue Web
+index.html
+*.html.map
+*.js.map
+
+# Ignorar configuraciones locales
+.idea/
+.vscode/
+node_modules/
