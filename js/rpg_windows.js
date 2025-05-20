@@ -5769,9 +5769,7 @@ Window_TitleCommand.prototype.selectLast = function() {
     } else if (this.isContinueEnabled()) {
         this.selectSymbol('continue');
     }
-    // Aumentar tamaño del texto en menú de título
 };
-
 
 //-----------------------------------------------------------------------------
 // Window_GameEnd
