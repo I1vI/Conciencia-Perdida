@@ -5772,19 +5772,6 @@ Window_TitleCommand.prototype.selectLast = function() {
     // Aumentar tamaño del texto en menú de título
 };
 
-Window_TitleCommand.prototype.standardFontSize = function() {
-    return 36; // Puedes poner 32–40 para probar
-};
-
-// Aumentar altura de cada botón
-Window_TitleCommand.prototype.itemHeight = function() {
-    return 60; // Por defecto es 36
-};
-
-// Aumentar ancho de la ventana del menú
-Window_TitleCommand.prototype.windowWidth = function() {
-    return 300; // Por defecto es 240
-};
 
 //-----------------------------------------------------------------------------
 // Window_GameEnd
