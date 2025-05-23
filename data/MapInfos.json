@@ -1,7 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Nivel 1","order":3,"parentId":0,"scrollX":1568,"scrollY":800},
-{"id":2,"expanded":true,"name":"Introduccion","order":2,"parentId":3,"scrollX":728,"scrollY":398.22222222222223},
-{"id":3,"expanded":true,"name":"Cielo Divino","order":1,"parentId":0,"scrollX":728,"scrollY":386.6666666666667},
-{"id":4,"expanded":true,"name":"Cielo Divino","order":4,"parentId":0,"scrollX":728,"scrollY":398.22222222222223}
+{"id":1,"expanded":false,"name":"Nivel 2","order":5,"parentId":8,"scrollX":1081.3333333333333,"scrollY":1296},
+{"id":2,"expanded":true,"name":"Introduccion","order":2,"parentId":3,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":3,"expanded":true,"name":"Cielo Divino","order":1,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+null,
+{"id":5,"expanded":false,"name":"Nivel 1","order":4,"parentId":8,"scrollX":1081.3333333333333,"scrollY":810.6666666666666},
+{"id":6,"expanded":false,"name":"Nivel 3","order":6,"parentId":8,"scrollX":1081.3333333333333,"scrollY":653.3333333333334},
+null,
+{"id":8,"expanded":true,"name":"Mapa Principal","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":842.6666666666666}
 ]
